@@ -4,13 +4,13 @@
 > **Collect taiwan technology conference information.**
 
 
-- **[DevOpsDays](#DevOpsDays)**
-- **[FEDC](#FEDC)**
-- **[HITCON](#HITCON)**
-- **[Laravelconf Taiwan](#Laravelconf-Taiwan)**
-- **[Modern Web](#Modern-Web)**
-- **[MOPCON](MOPCON)**
-- **[SITCON](SITCON)**
+- **[DevOpsDays](#devopsdays)**
+- **[FEDC](#fedc)**
+- **[HITCON](#hitcon)**
+- **[Laravelconf](#laravelconf)**
+- **[Modern Web](#modern-web)**
+- **[MOPCON](#mopcon)**
+- **[SITCON](#sitcon)**
 
 ## [DevOpsDays](https://devopsdays.tw)
 - [2018](https://devopsdays.tw)
@@ -31,7 +31,7 @@
     - 台北南港展覽館一館 5樓
     - [Collaborative notes](https://hackmd.io/REM8M6iQQbe-znEclhOxJg)
 
-## [Laravelconf Taiwan](https://laravelconf.tw/zh-TW)
+## [Laravelconf](https://laravelconf.tw/zh-TW)
 - [2018](https://laravelconf.tw/zh-TW)
     - 7/8
     - 張榮發基金會 國際會議中心
