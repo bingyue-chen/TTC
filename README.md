@@ -8,7 +8,7 @@
 - **[DevOpsDays](#devopsdays)**
 - **[FEDC](#fedc)**
 - **[HITCON](#hitcon)**
-- **[JSDC](#jsdc)
+- **[JSDC](#jsdc)**
 - **[Laravelconf](#laravelconf)**
 - **[Modern Web](#modern-web)**
 - **[MOPCON](#mopcon)**
