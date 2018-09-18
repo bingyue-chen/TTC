@@ -8,6 +8,7 @@
 - **[DevOpsDays](#devopsdays)**
 - **[FEDC](#fedc)**
 - **[HITCON](#hitcon)**
+- **[JSDC](#jsdc)
 - **[Laravelconf](#laravelconf)**
 - **[Modern Web](#modern-web)**
 - **[MOPCON](#mopcon)**
@@ -38,6 +39,11 @@
     - 7/27 - 7/28
     - 台北南港展覽館一館 5樓
     - [Collaborative notes](https://hackmd.io/REM8M6iQQbe-znEclhOxJg)
+
+## [JSDC](http://jsdc.tw)
+- [2018](http://2018.jsdc.tw)
+    - 11/17
+    - 台北市松山區敦化南路一段108號, 富邦國際會議中心
 
 ## [Laravelconf](https://laravelconf.tw/zh-TW)
 - [2018](https://laravelconf.tw/zh-TW)
