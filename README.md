@@ -72,6 +72,7 @@
 - [2019](https://sitcon.org/2019/)
     - 3/24
     - 中央研究院人文社會科學館 國際會議廳
+    - [Ticket](https://sitcon.kktix.cc/events/sitcon2019)
 - [2018](https://sitcon.org/2018/)
     - 3/10
     - 中央研究院人文社會科學館 國際會議廳
