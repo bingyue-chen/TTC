@@ -20,6 +20,9 @@
     - 1/16
 
 ## [COSCUP](https://coscup.org)
+- [2019](https://coscup.org/2019/)
+    - 8/17 - 8/18
+    - 台灣科技大學國際大樓
 - [2018](https://2018.coscup.org)
     - 8/11 - 8/12
     - 台灣科技大學國際大樓
@@ -51,13 +54,20 @@
     - [Ticket](https://jsdc-tw.kktix.cc/events/jsdc2018)
 
 ## [Laravelconf](https://laravelconf.tw/zh-TW)
-- [2018](https://laravelconf.tw/zh-TW)
+- [2019](https://2018.laravelconf.tw/zh-TW)
+    - 7/13
+    - 張榮發基金會 國際會議中心
+    - [Ticket](https://laravel-dojo.kktix.cc/events/laravelconftw2019)
+- [2018](https://2018.laravelconf.tw/zh-TW)
     - 7/8
     - 張榮發基金會 國際會議中心
     - [Collaborative notes](https://hackmd.io/c/LaravelConfTaiwan2018/https%3A%2F%2Fhackmd.io%2F0uQwrkfESra_EIu5g1lL1Q)
 
 ## [Modern Web](http://modernweb.tw)
-- [2018](http://modernweb.tw)
+- [2019](http://modernweb.tw)
+    - 8/28 - 8/29
+    - TICC 臺北國際會議中心
+- [2018](https://modernweb.tw/2018/index.html)
     - 7/18 - 7/19
     - 華南銀行國際會議中心
     - [Collaborative Notes](https://hackmd.io/c/MW18/%2FveGq1uV8SSa4ZapeKExdWg)
@@ -79,6 +89,10 @@
     - 中央研究院人文社會科學館 國際會議廳
 
 ## [TGDF](https://tgdf.tw)
+- [2019](https://2019.tgdf.tw/)
+    - 7/10 - 7/11
+    - 臺北文創大樓六樓
+    - [Ticket](https://tgdf.kktix.cc/events/2019tgdf)
 - [2018](https://2018.tgdf.tw)
     - 8/8 - 8/9
     - 台北國際會議中心1樓
