@@ -42,6 +42,9 @@
     - [Collaborative notes](http://hackmd.io/c/fedc2018)
 
 ## [HITCON](https://hitcon.org)
+- [2019](https://hitcon.org/2019/CMT/)
+    - 8/23 - 8/24
+    - 中央研究院
 - [2018](https://hitcon.org/2018)
     - 7/27 - 7/28
     - 台北南港展覽館一館 5樓
